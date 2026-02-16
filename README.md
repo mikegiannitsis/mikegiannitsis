@@ -9,3 +9,6 @@ Over the past decade, I have worked in the cybersecurity space from the sales si
 <a href="https://www.credly.com/badges/fb3eb991-a064-4fbe-8c34-c6478c0a6d6c/public_url"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/ce33d8df-b18a-4730-855d-8f25e8358be1/public_url"><img src="https://img.shields.io/badge/Google Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 </div>
+
+## Projects
+<a href="https://github.com/mikegiannitsis/Secure-Home-Lab">Secure Home Lab</a>
