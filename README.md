@@ -13,3 +13,4 @@ Over the past decade, I have worked in the cybersecurity space from the sales si
 ## Projects
 - <a href="https://github.com/mikegiannitsis/Secure-Home-Lab">Secure Home Lab</a>
 - <a href="https://github.com/mikegiannitsis/SSH-Detection-Lab">SSH Detection Lab</a>
+- <a href="https://github.com/mikegiannitsis/Network-Forensics-Lab">Network Forensics Lab</a>
