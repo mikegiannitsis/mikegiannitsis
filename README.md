@@ -4,7 +4,7 @@
 
 ## About
 
-Cybersecurity professional with hands on experience in SIEM deployment, log analysis, alert triage, and incident response. My background spans to SOC analyst collaboration, enterprise risk assessments, and a decade of applied security work across CDN, DDoS mitigation, and web application security environments. Currently pursuing CCNA certification.
+Cybersecurity professional with hands on experience in SIEM deployment, log analysis, alert triage, and incident response. My background spans SOC analyst collaboration, enterprise risk assessments, and a decade of applied security work across CDN, DDoS mitigation, and web application security environments. Currently pursuing CCNA certification.
 
 ---
 
