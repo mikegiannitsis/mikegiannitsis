@@ -31,7 +31,7 @@ Cybersecurity professional with hands on experience in SIEM deployment, log anal
 **[Network Forensics Lab](https://github.com/mikegiannitsis/Network-Forensics-Lab)**
 PCAP analysis using Wireshark to trace a remote code execution attack and credential exfiltration on a compromised web server. Documented attack vectors, indicators of compromise, and detection rule recommendations.
 
-**[SOC Detection Lab](https://github.com/mikegiannitsis/SSH-Detection-Lab)**
+**[SOC Detection Lab](https://github.com/mikegiannitsis/SOC-Detection-Lab)**
 Deployed Wazuh SIEM in a self-built VMware environment simulating enterprise infrastructure. Simulated SSH brute force attacks, built custom detection rules, and refined alert triage and incident response workflows.
 
 **[Web Activity Log Analysis](https://github.com/mikegiannitsis/Web-Activity-Log-Analysis)**
