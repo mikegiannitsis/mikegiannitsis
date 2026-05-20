@@ -4,7 +4,7 @@
 
 ## About
 
-Cybersecurity professional with hands on experience in SIEM deployment, log analysis, alert triage, and incident response. My background spans SOC analyst collaboration, enterprise risk assessments, and a decade of applied security work across CDN, DDoS mitigation, and web application security environments. Currently pursuing CCNA certification.
+Cybersecurity professional with 10+ years of advising enterprise clients on threat exposure, adversary behavior, and defensive strategy across CDN security, DDoS mitigation, and web application security environments. Hands on experience in threat analysis, network forensics, SIEM deployment, and incident response through lab work and direct SOC collaboration. Focused on Threat Intelligence, CSIRT, and GRC roles. 
 
 ---
 
@@ -29,13 +29,13 @@ Cybersecurity professional with hands on experience in SIEM deployment, log anal
 ## Projects
 
 **[Network Forensics Lab](https://github.com/mikegiannitsis/Network-Forensics-Lab)**
-PCAP analysis using Wireshark to trace a remote code execution attack and credential exfiltration on a compromised web server. Documented attack vectors, indicators of compromise, and detection rule recommendations.
+Reconstructed a full attack chain from initial remote code execution through shell communications to credential exfiltration using Wireshark PCAP analysis. Documented indicators of compromise, mapped attacker behavior, and produced detection rule recommendations.
 
 **[SOC Detection Lab](https://github.com/mikegiannitsis/SOC-Detection-Lab)**
-Deployed Wazuh SIEM in a self-built VMware environment simulating enterprise infrastructure. Simulated SSH brute force attacks, built custom detection rules, and refined alert triage and incident response workflows.
+Deployed Wazuh SIEM across a self-built VMware environment to simulate enterprise infrastructure. Mapped simulated SSH brute force activity to MITRE ATT&CK TTPs, developed custom detection rules, and documented structured incident response findings.
 
 **[Web Activity Log Analysis](https://github.com/mikegiannitsis/Web-Activity-Log-Analysis)**
-Analyzed 2,100+ log entries across 77 unique IPs on a corporate intranet. Detected 68 unauthorized access attempts, correlated access patterns to identify the threat source, and documented mitigation recommendations.
+Analyzed 2,100+ web requests across 77 unique IPs to profile a threat actor behind 68 unauthorized access attempts on a corporate intranet. Correlated access patterns to determine scope and intent, and produced an intelligence report with mitigation recommendations.
 
 ---
 
