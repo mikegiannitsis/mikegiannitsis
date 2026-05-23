@@ -37,6 +37,9 @@ Deployed Wazuh SIEM across a self-built VMware environment to simulate enterpris
 **[Web Activity Log Analysis](https://github.com/mikegiannitsis/Web-Activity-Log-Analysis)**
 Analyzed 2,100+ web requests across 77 unique IPs to profile a threat actor behind 68 unauthorized access attempts on a corporate intranet. Correlated access patterns to determine scope and intent, and produced an intelligence report with mitigation recommendations.
 
+**[Volt Typhoon Threat Intelligence Report](https://github.com/mikegiannitsis/Volt-Typhoon-Threat-Intelligence-Report)**
+Open source intelligence report profiling a PRC state sponsored APT targeting US critical infrastructure. Full TTP analysis mapped to MITRE ATT&CK, adversary profiling, and defensive recommendations aligned to CISA advisories and NIST framework guidance.
+
 ---
 
 ## Currently Studying
