@@ -4,7 +4,7 @@
 
 ## About
 
-Cybersecurity professional with 10+ years of advising enterprise clients on threat exposure, adversary behavior, and defensive strategy across CDN security, DDoS mitigation, and web application security environments. Hands on experience in threat analysis, network forensics, SIEM deployment, and incident response through lab work and direct SOC collaboration. Focused on Threat Intelligence, CSIRT, and GRC roles. 
+Cybersecurity professional with 10+ years of advising enterprise clients on threat exposure, adversary behavior, and defensive strategy across CDN security, DDoS mitigation, and web application security environments. Hands on experience in threat analysis, network forensics, SIEM deployment, and incident response through lab work and direct SOC collaboration. Focused on Threat Intelligence and CSIRT. 
 
 ---
 
@@ -39,12 +39,6 @@ Analyzed 2,100+ web requests across 77 unique IPs to profile a threat actor behi
 
 **[Volt Typhoon Threat Intelligence Report](https://github.com/mikegiannitsis/Volt-Typhoon-Threat-Intelligence-Report)**
 Open source intelligence report profiling a PRC state sponsored APT targeting US critical infrastructure. Full TTP analysis mapped to MITRE ATT&CK, adversary profiling, and defensive recommendations aligned to CISA advisories and NIST framework guidance.
-
----
-
-## Currently Studying
-
-![CCNA](https://img.shields.io/badge/CCNA-In%20Progress-orange?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
