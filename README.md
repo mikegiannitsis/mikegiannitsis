@@ -8,11 +8,13 @@ Cybersecurity professional with 10+ years of advising enterprise clients on thre
 
 ---
 
-## Certifications
+## Certifications & Learning
 
 [![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/e821e2e7-0f8e-4d72-9dbe-38ece5c6760f/public_url)
 [![Network+](https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.credly.com/badges/fb3eb991-a064-4fbe-8c34-c6478c0a6d6c/public_url)
 [![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/ce33d8df-b18a-4730-855d-8f25e8358be1/public_url)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-mike.giannitsis-green?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/mike.giannitsis)
 
 ---
 
